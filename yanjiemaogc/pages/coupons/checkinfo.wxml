@@ -1,0 +1,43 @@
+<!--pages/order/detail.wxml-->
+<view class="w100">	
+		<view class="p_all bg_white mt10 font_14">
+				<view class="ecode">
+				   认证成功！
+				</view>
+        <view class="ecodes">
+				   系统找到一条与认证码匹配的信息，请核对
+				</view>
+		</view>	
+
+		<view class="info">
+			<view class="jc">
+			认 证 码：<text class="red">{{info.ecode}}</text>
+			</view>
+    </view>
+    <view class="info">
+      <view class="jc">
+			  会员信息
+			</view>
+			<view class="mt10">
+			  会员头像：<image src="{{info.photo}}" class="image"></image>
+			</view>
+			<view class="mt10">
+			  会员昵称：{{info.uname}}
+			</view>
+      <view class="mt10">
+			  领取时间：{{info.gettime}}
+			</view>
+     </view> 
+     <view class="info">
+      <view class="jc">
+          消费信息
+      </view>
+      <view class="mt10">
+			  订单编号：{{info.order_sn}}
+			</view>
+      <view class="mt10">
+			  消费金额：{{info.price}}
+			</view>
+		 </view>
+
+</view>

@@ -1,0 +1,70 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/inf/inf",
+    "pages/product/detail",
+    "pages/search/search",
+    "pages/news/news",
+    "pages/personal/personal",
+    "pages/exshop/exshop",
+    "pages/user/user",
+    "pages/user/shoucang",
+    "pages/user/dingdan",
+    "pages/user/tuihuo",
+    "pages/order/pay",
+    "pages/order/detail",
+    "pages/order/downline",
+    "pages/cart/cart",
+    "pages/listdetail/listdetail",
+    "pages/address/address",
+    "pages/address/user-address/user-address",
+    "pages/panic/panic",
+    "pages/category/index",     
+    "pages/ritual/ritual",   
+    "pages/rituall/rituall", 
+    "pages/coupons/coupons",
+    "pages/coupons/checkinfo",
+    "pages/coupons/info",
+    "pages/shop/shop", 
+    "pages/shop_store/shop_store", 
+    "pages/slide/mei", 
+    "pages/logs/logs"
+      ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#559af9",
+    "navigationBarTitleText": "眼睫毛工厂",
+    "navigationBarTextStyle":"white"
+
+  },
+   "tabBar": {
+    "color": "#6e6d6b",
+    "selectedColor": "#559af9",
+    "borderStyle": "white",
+    "backgroundColor": "#fff",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "iconPath":"images/souu.png",
+      "selectedIconPath":"images/shou.png",
+      "text": "首页(Index)"
+    }, 
+        {
+      "pagePath": "pages/category/index",
+      "iconPath":"images/fei.png",
+      "selectedIconPath":"images/feii.png",
+      "text": "分类(Category)"
+    },
+       {
+      "pagePath": "pages/cart/cart",
+      "iconPath":"images/ggg.png",
+      "selectedIconPath":"images/gi.png",
+      "text": "购物车(Cart)"
+    },
+    {
+      "pagePath": "pages/user/user",
+      "iconPath":"images/hui.png",
+      "selectedIconPath":"images/huiyuan.png",
+      "text": "我的(user)"
+    }]
+  }
+}

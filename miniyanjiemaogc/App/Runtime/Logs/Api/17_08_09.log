@@ -1,0 +1,500 @@
+[ 2017-08-09T00:01:30+08:00 ] 117.136.40.150 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:16:17+08:00 ] 42.199.58.242 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:16:17+08:00 ] 42.199.58.242 /minijunxishanhgnz/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:16:18+08:00 ] 42.199.58.242 /minijunxishanhgnz/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:16:22+08:00 ] 42.199.58.242 /minijunxishanhgnz/index.php/Api/Product/lists
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:16:28+08:00 ] 42.199.58.242 /minijunxishanhgnz/index.php/Api/Product/lists
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:16:31+08:00 ] 42.199.58.242 /minijunxishanhgnz/index.php/Api/Product/lists
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:16:34+08:00 ] 42.199.58.242 /minijunxishanhgnz/index.php/Api/Product/get_more
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:25:43+08:00 ] 42.199.55.86 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:27:15+08:00 ] 112.96.115.207 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:27:27+08:00 ] 112.96.115.207 /minijunxishanhgnz/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:27:28+08:00 ] 112.96.115.207 /minijunxishanhgnz/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:27:40+08:00 ] 112.96.115.207 /minijunxishanhgnz/index.php/Api/Product/lists
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T00:35:40+08:00 ] 118.196.235.245 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T03:27:35+08:00 ] 42.199.55.241 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T07:30:37+08:00 ] 42.199.55.142 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T09:39:38+08:00 ] 120.85.91.29 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T09:39:45+08:00 ] 120.85.91.29 /minijunxishanhgnz/index.php/Api/Product/lists
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T09:39:48+08:00 ] 120.85.91.29 /minijunxishanhgnz/index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T09:40:05+08:00 ] 120.85.91.29 /minijunxishanhgnz/index.php/Api/Product/lists
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T09:40:16+08:00 ] 120.85.94.245 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T12:30:26+08:00 ] 42.199.55.13 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T12:30:40+08:00 ] 42.199.55.13 /minijunxishanhgnz/index.php/Api/Shangchang/shop_details
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T12:30:49+08:00 ] 42.199.55.13 /minijunxishanhgnz/index.php/Api/Shangchang/shop_details
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T12:30:55+08:00 ] 42.199.55.13 /minijunxishanhgnz/index.php/Api/Shangchang/shop_details
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T13:58:49+08:00 ] 117.136.32.94 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T13:59:03+08:00 ] 117.136.32.94 /minijunxishanhgnz/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T13:59:03+08:00 ] 117.136.32.94 /minijunxishanhgnz/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T13:59:19+08:00 ] 117.136.32.94 /minijunxishanhgnz/index.php/Api/Category/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T13:59:23+08:00 ] 117.136.32.94 /minijunxishanhgnz/index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T13:59:23+08:00 ] 117.136.32.94 /minijunxishanhgnz/index.php/Api/User/getorder
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T14:30:11+08:00 ] 117.136.41.76 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T14:57:40+08:00 ] 219.136.174.147 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T14:57:44+08:00 ] 219.136.174.147 /minijunxishanhgnz/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T14:57:45+08:00 ] 219.136.174.147 /minijunxishanhgnz/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T17:36:04+08:00 ] 117.136.32.58 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T17:36:18+08:00 ] 117.136.32.58 /minijunxishanhgnz/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T17:36:18+08:00 ] 117.136.32.58 /minijunxishanhgnz/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T20:37:40+08:00 ] 58.62.195.58 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T20:37:59+08:00 ] 58.62.195.58 /minijunxishanhgnz/index.php/Api/Product/lists
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T20:48:24+08:00 ] 42.199.58.242 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T20:48:26+08:00 ] 42.199.58.242 /minijunxishanhgnz/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T20:48:26+08:00 ] 42.199.58.242 /minijunxishanhgnz/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T20:48:28+08:00 ] 42.199.58.242 /minijunxishanhgnz/index.php/Api/Product/lists
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T20:48:30+08:00 ] 42.199.58.242 /minijunxishanhgnz/index.php/Api/Product/get_more
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T21:13:26+08:00 ] 112.96.100.68 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T21:14:49+08:00 ] 219.136.172.83 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T22:44:19+08:00 ] 117.136.79.49 /minijunxishanhgnz/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T22:44:24+08:00 ] 117.136.79.49 /minijunxishanhgnz/index.php/Api/Login/getsessionkey
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+
+[ 2017-08-09T22:44:24+08:00 ] 117.136.79.49 /minijunxishanhgnz/index.php/Api/Login/authlogin
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' /www/web/default/public_html/minijunxishanhgnz/App/Api/Conf/config.php 第 40 行.
+

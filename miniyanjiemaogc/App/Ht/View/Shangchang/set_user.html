@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>后台管理</title>
+<link href="__PUBLIC__/ht/css/main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="__PUBLIC__/ht/js/jquery.js"></script>
+<script type="text/javascript" src="__PUBLIC__/ht/js/action.js"></script>
+</head>
+<body>
+
+<div class="aaa_pts_show_1">【 账号设置 】</div>
+
+<div class="aaa_pts_show_2">
+    
+    <div class="aaa_pts_3">
+      <form action="{:U('setlogininfo')}" method="post" onsubmit="return ac_from();">
+      <ul class="aaa_pts_5">
+         <li><strong style="font-size:16px; color:#0c0;">商家账号设置</strong></li>
+         <li>
+            <div class="d1">登录账号:</div>
+            <div>
+              <input type="username" class="inp_1" name="username" id="username"/>
+            </div>
+         </li>
+         <li>
+            <div class="d1">密  码:</div>
+            <div>
+              <input type="password" class="inp_1" name="password" id="password"/>
+            </div>
+            <div style="margin-left:8px;">* 为空时，将不更改密码</div>
+         </li>
+         <li>
+          <input type="submit" name="submit" value="提交" class="aaa_pts_web_3" border="0">
+          <input type="hidden" name="shop_id" value="{$shop_id}">
+        </li>
+      </ul>
+      </form>
+         
+    </div>
+    
+</div>
+<script>
+function ac_from(){
+  var username=document.getElementById('username').value;
+  var password=document.getElementById('password').value;
+  if (!username) {
+    alert('请设置登录账号！');
+    return false; 
+  };
+
+  if(!password){
+		alert('请设置登录密码！');
+		return false; 
+  }
+
+  if(password.length<6){
+    alert('请设置大于等于6位的登录密码！');
+    return false; 
+  }
+  
+}
+</script>
+</body>
+</html>

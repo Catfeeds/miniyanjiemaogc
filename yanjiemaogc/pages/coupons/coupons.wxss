@@ -1,0 +1,82 @@
+.register{
+    width: 70%;
+    height: 600rpx;
+    margin: 80rpx auto;
+    font-family: "微软雅黑"
+}
+ .user{
+    width:90%;
+    height: 100rpx;
+    line-height: 100rpx;
+    font-size:12px;
+    border-bottom: 0px solid #eee;
+    display: flex;
+}
+.register{
+    width:88%;
+    height:200rpx;
+    line-height: 100rpx;
+    font-size:12px;
+    border-bottom: 1px solid #eee;
+}
+
+.register input{
+  flex: 2;
+        line-height:100rpx;
+float: left;
+    padding-top: 23rpx;
+}
+input{
+    font-size:37rpx;
+}
+.in{
+    display: inline-block;
+    width: 70%;
+}
+.register .sim{
+    width: 45%;
+}
+
+.register .word{
+    height: 100rpx;
+}
+.register text{
+  width: 20%;
+   flex: 1;
+    padding-right: 20rpx;
+    line-height: 100rpx;
+    font-size: 30rpx;
+    color: #999;
+}
+.but{
+    padding-top: 80rpx;
+    text-align: center;
+    padding-bottom:80rpx;
+}
+.but button{
+    height: 80rpx;
+    line-height: 80rpx;
+    font-size: 30rpx;
+    color: #fff;
+    background: #E0E0E0;
+    width: 200rpx;
+}
+.but text{
+    float: none;
+}
+
+.register  .xuan{
+margin-right:200rpx;
+float:right;
+color:#000;
+}
+.ru{
+    font-size: 26rpx;
+   float: right;
+   color: #ccc;
+}
+
+.classname{
+  width:88%;
+
+}

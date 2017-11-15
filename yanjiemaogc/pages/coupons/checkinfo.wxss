@@ -1,0 +1,40 @@
+/* pages/order/detail.wxss */
+.w100{ width: 100%}
+
+.red{
+    color: red;
+}
+
+.sl{
+  font-size: 12px;
+  color: #999;
+}
+
+.ecode{
+  font-size: 60rpx;
+  text-align: center;
+  color: green;
+  margin-bottom:20rpx;
+}
+
+.ecodes{
+  text-align: center;
+  color: #D0D0D0;
+}
+
+.info{
+  padding:3%;
+  line-height:20px;
+  font-size:15px;
+  color:#666;
+  background:#fff;
+}
+
+.jc{
+  font-weight:bold;
+}
+
+.image{
+  width: 110rpx;
+  height: 110rpx;
+}

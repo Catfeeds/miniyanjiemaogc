@@ -1,0 +1,636 @@
+[ 2017-07-20T17:32:09+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Login/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0217s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000211s ]
+NOTIC: [8] Undefined variable: key /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/2d4ce69e9c2d15d777794fcdbaefd3a2.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051065s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051162s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000988s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001069s ]
+
+[ 2017-07-20T17:32:19+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Login/index.html?key=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+SQL: SHOW COLUMNS FROM `lr_adminuser` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `lr_adminuser` WHERE ( name='admin' AND del<1 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: shop_id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/LoginController.class.php 第 21 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000611s ]
+
+[ 2017-07-20T17:32:21+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Index/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+SQL: SHOW COLUMNS FROM `lr_web` [ RunTime:0.0019s ]
+SQL: SELECT `concent` FROM `lr_web` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000574s ]
+
+[ 2017-07-20T17:32:21+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Page/adminindex.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-07-20T17:38:27+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Product/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 14 行.
+NOTIC: [8] Undefined index: shop_id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 15 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 18 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 19 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `lr_product` [ RunTime:0.0014s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_product` WHERE ( 1=1 AND pro_type=1 AND del<1 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 32 行.
+SQL: SELECT * FROM `lr_product` WHERE ( 1=1 AND pro_type=1 AND del<1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0021s ]
+SQL: SELECT `name` FROM `lr_shangchang` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0007s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_shangchang` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_shangchang` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_shangchang` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=6 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_shangchang` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_category` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010849s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010927s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-07-20T17:46:08+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/News/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+SQL: SHOW COLUMNS FROM `lr_news` [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: cid /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/NewsController.class.php 第 21 行.
+NOTIC: [8] Undefined index: news_name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/NewsController.class.php 第 22 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_news` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_news` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+NOTIC: [8] Undefined variable: cate_list /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/d2c2b9f8ff9f06f54a1098e4e461f41e.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011235s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000862s ]
+
+[ 2017-07-20T17:46:12+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/News/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+SQL: SHOW COLUMNS FROM `lr_news` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: news_id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/NewsController.class.php 第 84 行.
+SQL: SELECT * FROM `lr_news` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8] Undefined index: news_id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/0fa5b2ddb713c3a29860233bcf0f5525.php 第 20 行.
+NOTIC: [8] Undefined variable: cate_list /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/0fa5b2ddb713c3a29860233bcf0f5525.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008799s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-07-20T17:56:01+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017560173042.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000551s ]
+
+[ 2017-07-20T17:56:22+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017562217866.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000763s ]
+
+[ 2017-07-20T17:56:43+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017564313220.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-07-20T17:57:01+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017570176376.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000481s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-07-20T17:57:09+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017570927718.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-07-20T17:57:20+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017572073669.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-07-20T17:57:32+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017573231663.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2017-07-20T17:57:44+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017574451593.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-07-20T17:57:59+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017575926758.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000539s ]
+
+[ 2017-07-20T17:58:09+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017580996884.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-07-20T17:58:23+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017582354995.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-07-20T17:58:33+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017583319568.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-07-20T17:58:44+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017584426360.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-07-20T17:58:53+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Upload/xheditor.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+NOTIC: [2] unlink(./Data/UploadFiles/Uploads/2017072017585344524.tmp): No such file or directory /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/UploadController.class.php 第 335 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000457s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-07-20T17:59:00+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/News/save.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+SQL: SHOW COLUMNS FROM `lr_news` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: validate /www/web/default/public_html/minijunxishanhgnz/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /www/web/default/public_html/minijunxishanhgnz/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/NewsController.class.php 第 101 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /www/web/default/public_html/minijunxishanhgnz/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined variable: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/NewsController.class.php 第 107 行.
+SQL: SELECT `photo` FROM `lr_news` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: INSERT INTO `lr_news` (`name`,`digest`,`photo`,`content`,`source`,`sort`,`addtime`) VALUES ('君喜善夏一波：摩洛哥风情！','','UploadFiles/news/20170720/1500544740973548.png','&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; -webkit-text-stroke: rgb(0, 0, 0); font-family: &amp;quot;PingFang TC Semibold&amp;quot;; text-align: justify; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;本系列体现：自傲、冷静、高雅、温柔亦强韧；上乘面料、精密剪裁、随意、色彩鲜明、&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; font-family: &amp;quot;PingFang TC&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;复古图案、欧洲文化！SKU：23&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); widows: 1; -webkit-text-stroke: rgb(0, 0, 0); text-align: justify; font-size: 10.5px; line-height: normal; font-family: &amp;quot;PingFang TC Semibold&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); widows: 1; -webkit-text-stroke: rgb(0, 0, 0); text-align: justify; font-size: 10.5px; line-height: normal; font-family: &amp;quot;PingFang TC Semibold&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); widows: 1; -webkit-text-stroke: rgb(0, 0, 0); text-align: justify; font-size: 10.5px; line-height: normal; font-family: &amp;quot;PingFang TC Semibold&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4gvtWAnd87b2nRDHgKnGMDN2rNXUz17qTr2LuAHxQOygib3lk6PGf1Dkw/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.5009380863039399&quot; data-w=&quot;533&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201756017914.png&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 12px; color: rgb(62, 62, 62); widows: 1; -webkit-text-stroke: rgb(0, 0, 0); text-align: justify; font-size: 10.5px; line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; -webkit-text-stroke: rgb(62, 62, 62); font-family: &amp;quot;PingFang TC&amp;quot;; font-size: 16px; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;摩洛哥是目前受欧洲文化影响最深的阿拉伯国家，它既保留了本国原始的民族风情特点，同时也兼具了欧洲极简主义风格，君喜善设计师用摩洛哥特殊历史文化背景，将欧洲与非洲艺术文化之间彼此碰撞与交融的特点运用于服装之中，异域而神秘的非洲岩画纹样与简洁的款式造型为设计，将会为&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; -webkit-text-stroke: rgb(62, 62, 62); font-size: 16px; line-height: normal; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;2017&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; -webkit-text-stroke: rgb(62, 62, 62); font-family: &amp;quot;PingFang TC&amp;quot;; font-size: 16px; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;夏季开启一场奇妙无比的时装旅程。&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot; /&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 12px; color: rgb(62, 62, 62); widows: 1; -webkit-text-stroke: rgb(0, 0, 0); text-align: justify; font-size: 10.5px; line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 19px; color: rgb(62, 62, 62); font-size: 16px; widows: 1; -webkit-text-stroke: rgb(62, 62, 62); line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4g26ZxsXiaPC2nnJBz0AI6NAOOOc7ryHa9ARlIo2colSED9c7jia3Ap5Qw/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.5009380863039399&quot; data-w=&quot;533&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201756227463.png&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;br style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4gLgdbf5LDKcLwDbqy8oLInfIaXy35PyictmeX5FQ2soOWRDSU7lXPWqQ/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.7777777777777777&quot; data-w=&quot;720&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201756432603.jpg&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; font-family: &amp;quot;PingFang SC&amp;quot;; -webkit-text-stroke: rgb(62, 62, 62); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;第一颜色：启发来自摩洛哥的民宅。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-size: 16px; widows: 1; -webkit-text-stroke: rgb(62, 62, 62); line-height: normal; font-family: &amp;quot;PingFang TC&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;摩洛哥蓝色小镇卡舍夫沙万的色调成为的这个系列主打颜色，干净通透的蓝色搭配原始的岩石色，构成超越自然的神秘色彩；图案亦是从摩洛哥非洲部落传统岩画纹样中汲取创作灵感，凿刻细腻的岩石底样上攀爬着蔓藤，诉说着清新、自然又带着些许秘境图腾般的民族风情。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 19px; color: rgb(62, 62, 62); font-size: 16px; widows: 1; -webkit-text-stroke: rgb(62, 62, 62); line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4g28BFJKwdS95I2RXGmPwYoRFbSyGicZMXwRBZtDpymhvqgnDr5bfQ86w/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.933534743202417&quot; data-w=&quot;662&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201757018730.jpg&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4gM1L54qFlyamzop5fAa32Bq8vEmbl8yh1vWwEMnqmgOJLuQwXKGLlZw/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.9104477611940298&quot; data-w=&quot;670&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201757096992.jpg&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(51, 51, 51); font-size: 14px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; color: rgb(51, 51, 51); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;摩洛哥舍夫沙万位于里夫山宽阔的山谷之中，海拔&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; line-height: normal; font-family: Arial;&quot;&gt;564&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;米，这里远离大都市的繁华，作为回教国家的小城，处处洋溢着浓郁的阿拉伯风情。城镇始建于&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; line-height: normal; font-family: Arial;&quot;&gt;1471&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;年，位于老城区麦地那的小堡垒至今仍然存在。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4gNJiaSppmPsEWBsicdIRTMpzCLG7iao0TpBxVPzZVOYqmicw50X93XicXeyg/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.8768328445747802&quot; data-w=&quot;682&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201757201999.jpg&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4g1x4XM7wFT7vCqicQVdme7Ds4sX4WKnOcmhlrO5Ky1yRICYsdicUicfiavw/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.9692307692307693&quot; data-w=&quot;650&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201757324535.jpg&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); line-height: normal; font-family: &amp;quot;Songti SC&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;被涂成蓝色的阶梯和民宅&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(51, 51, 51); font-size: 14px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; color: rgb(51, 51, 51); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;清爽的空气，清新的蓝色，安静的小巷，淳朴的民风，仿似童话般梦幻。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(19, 110, 194); font-size: 14px; line-height: normal; font-family: Arial; color: rgb(19, 110, 194); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;br style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); line-height: normal; font-family: &amp;quot;Songti SC&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;经常能在城镇中碰见猫&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(19, 110, 194); font-size: 14px; line-height: normal; font-family: Arial; color: rgb(19, 110, 194); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;br style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); font-size: 14px; line-height: normal; font-family: &amp;quot;PingFang TC&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;这里所有的建筑都是蓝色的，浅蓝、深蓝、粉蓝，你能在这里找到世间一切的蓝。舍夫沙万的居民们认为，蓝色代表天空与天堂，于是几百年来，他们习惯将自己的小镇刷上蓝色，生活在这里，就像在天空漫步。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 16px; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); font-size: 14px; line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4giaEqTq4l2KIpKNSDWqy0APlN9ls6cdDy2MgNdcNgNwQE2LfrFN88fCw/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.9631901840490797&quot; data-w=&quot;652&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201757446330.jpg&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 16px; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); font-size: 14px; line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); font-size: 14px; line-height: normal; font-family: &amp;quot;PingFang TC&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;悠悠地走进这里，踩在细碎不规则的鹅卵石路上，童话般的世界近在眼前。碎步沿街道上的拱形土墙门拾阶而上，于是，大片大片蓝色开始映入眼帘，迷惘梦幻铺天盖地。&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; line-height: normal; font-family: \'Trebuchet MS\';&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;不同于希腊圣托里尼的蓝白相间，在舍夫沙万蓝色肆无忌惮铺天盖地。&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 16px; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); font-size: 14px; line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;br style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot; /&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 16px; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); font-size: 14px; line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;&lt;br style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); font-size: 14px; line-height: normal; font-family: &amp;quot;PingFang TC&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;摩洛哥是阿拉伯国家，所以房间也颇有异域风情。许多人来摩洛哥旅游会特意来这里看看，为了领略这世间独一无二的景色。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 16px; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); font-size: 14px; line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); font-size: 14px; line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4g4svZhK7KZtKK8WvbEVmjv14uFkVAH7Hsv8fLB5ibZusBIyasW65ym3A/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.6243654822335025&quot; data-w=&quot;788&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201757593984.jpg&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); font-size: 14px; line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;&lt;/span&gt;&lt;br style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); font-size: 14px; line-height: normal; font-family: &amp;quot;PingFang TC&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;在舍夫沙万，生活是闲适的，散发着摩洛哥薄荷茶香味的街道里，悠闲地散步聊天就这样过完一天。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 16px; widows: 1; -webkit-text-stroke: rgb(85, 85, 85); font-size: 14px; line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; color: rgb(85, 85, 85); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;br style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot; /&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-size: 16px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-size: 16px; widows: 1; -webkit-text-stroke: rgb(62, 62, 62); line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;第二廓形：创作方面尤为耐看：设计师从摩洛哥特有的拱形门廓形中获得启发，主打钟型及茧型的廓形，如抛物线一般的优美曲线，长短对比极富韵律，裙摆波浪流动撩动风情，完美包容与修饰各种身材的同时，也拉长了腿部比例效果，更显纤长；斜裁手法亦运用到该系列中，增添女性的柔美浪漫特质。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4gRIqmNHtmV6YXxyRxUeicjRicSJ6A9MmYgIBaNMzDwlm4ATZsE6ZlkV4A/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.5686274509803921&quot; data-w=&quot;816&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201758096251.jpg&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4goULbr2YvVcZZ1b2XHRJkCElMkx6ibZCj5LZeXiaOEt6pf3LuSXLBKjzA/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.9452887537993921&quot; data-w=&quot;658&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201758235328.jpg&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-size: 16px; widows: 1; -webkit-text-stroke: rgb(62, 62, 62); line-height: normal; font-family: &amp;quot;PingFang TC&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;需要强调的是，此系列重点推荐透明罩衫的多层次穿搭组合方案，它将是今年夏季大热的流行时尚搭配造型。只需简约的打底，外面套上轻盈飘逸的罩衫，里外形成通透视觉层次，行走间充满了欲露还羞的空气感，实在无法抵挡的女人最性感的诱惑！&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 19px; color: rgb(62, 62, 62); font-size: 16px; widows: 1; -webkit-text-stroke: rgb(62, 62, 62); line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4gu52rYibv2NfcubbLMKjT9MmyMkoVSN791gib7AhEb80k7h6C6PyI8rOQ/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.8658892128279883&quot; data-w=&quot;686&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201758332199.jpg&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-size: 16px; widows: 1; -webkit-text-stroke: rgb(62, 62, 62); line-height: normal; font-family: &amp;quot;PingFang TC&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; line-height: normal; font-family: \'PingFang SC\';&quot;&gt;第三面料：君喜善设计师从面料初始就极为重视，精艺的纯手工工艺制作将带来出众的触感体验和穿着品质，以各类桑蚕丝&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; line-height: normal; font-family: \'Trebuchet MS\';&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;绸缎丝&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; line-height: normal; font-family: \'Trebuchet MS\';&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;和棉质苎麻为主打，带来轻盈、透气、舒适奢华感受。对丝及立体包边的工艺，使得服装更加富于立体而精致的轮廓造型感，装饰感强烈的轮廓线条，也解决了真丝面料易抽纱的特点，立体的棉质织带的运用使得整体廓形感更强且增加了一定的差异化视觉效果。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-size: 16px; widows: 1; -webkit-text-stroke: rgb(62, 62, 62); line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;br style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(0, 0, 0); text-align: justify; font-size: 14px; line-height: normal; font-family: &amp;quot;PingFang TC&amp;quot;; color: rgb(68, 68, 68); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;第四洗涤保养：&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(0, 0, 0); text-align: justify; font-size: 14px; line-height: normal; font-family: &amp;quot;PingFang TC&amp;quot;; color: rgb(68, 68, 68); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;桑蚕丝请冷水手洗，专业洗衣液清洗，忌碱性洗涤剂；即洗即挂；（不超过三分钟清洗）阴干；&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; line-height: normal; font-family: Verdana;&quot;&gt;30&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;度低温蒸汽烫衣！&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; widows: 1; -webkit-text-stroke: rgb(54, 54, 54); font-size: 14px; line-height: normal; font-family: &amp;quot;PingFang TC&amp;quot;; color: rgb(54, 54, 54); box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;苎麻面料：冷水&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; line-height: normal; font-family: Verdana;&quot;&gt;35&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;度以下手洗，不能用衣领净等高校洗涤剂；一定不要让苎麻面料接触到酸性的物质，苎麻是植物纤维，对酸很敏感，酸对植物纤维的破坏性极大，很容易烧坏衣服。阴干；水温过高会缩水．&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; line-height: normal; font-family: Verdana;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;另外苎麻色牢度不是很好，会掉一点色，不要和其它的浅色衣服一起洗。熨烫时温度要控制在２００&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; line-height: normal; font-family: Verdana;&quot;&gt;—&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; line-height: normal; font-family: \'PingFang SC\';&quot;&gt;２３０摄氏度之间，并且最好在衣服半干的时候熨烫，这样，熨烫出来的效果是最理想的。&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4ga6FPKib2Fib2KUwXh5oGsYFuE4I4H1DvHH5ju84f5G9ux9GaRfSH4RSg/0?wx_fmt=jpeg&quot; data-ratio=&quot;1.9047619047619047&quot; data-w=&quot;672&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201758445480.jpg&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-size: 16px; widows: 1; -webkit-text-stroke: rgb(62, 62, 62); line-height: normal; font-family: &amp;quot;PingFang TC&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; line-height: normal; font-family: \'Trebuchet MS\';&quot;&gt;2017&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;夏天舍夫万沙的摩洛哥旋律系列，以时装的形式带领大家去旅行，用时装的语言来为女人们拓宽眼界！无需亲自踏上这片神秘的土地，北非摩洛哥独特的民族精髓魅力已然穿着上身，在你生活的城市自信而大方的秀出独一无二的异域风情之美吧！&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 19px; color: rgb(62, 62, 62); font-size: 16px; widows: 1; -webkit-text-stroke: rgb(62, 62, 62); line-height: normal; font-family: &amp;quot;Trebuchet MS&amp;quot;; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; font-kerning: none;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; padding: 0px; max-width: 100%; clear: both; min-height: 1em; color: rgb(62, 62, 62); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, Arial, sans-serif; font-size: 16px; line-height: 25.6px; widows: 1; box-sizing: border-box !important; word-wrap: break-word !important;&quot;&gt;&lt;img data-s=&quot;300,640&quot; data-type=&quot;jpeg&quot; data-src=&quot;http://mmbiz.qpic.cn/mmbiz_jpg/ke4D20gXDGUSBzicy7XlRLVUFNFsUxh4giarTPWFMxxs9DJDibuwE7ibdBzc9sjMRHHYogXge5IvypUWeJNfw6sUuw/0?wx_fmt=jpeg&quot; data-ratio=&quot;1&quot; data-w=&quot;695&quot; src=&quot;/minijunxishanhgnz/Data/UploadFiles/Uploads/day_170720/201707201758536137.jpg&quot; data-fail=&quot;0&quot; style=&quot;margin: 0px; padding: 0px; height: auto !important; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;&quot; width=&quot;140&quot; height=&quot;140&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;','本网','0','1500544740') [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006022s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2017-07-20T17:59:01+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/News/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+SQL: SHOW COLUMNS FROM `lr_news` [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: cid /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/NewsController.class.php 第 21 行.
+NOTIC: [8] Undefined index: news_name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/NewsController.class.php 第 22 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_news` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_news` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+NOTIC: [8] Undefined variable: cate_list /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/d2c2b9f8ff9f06f54a1098e4e461f41e.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000618s ]
+
+[ 2017-07-20T17:59:07+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Product/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 65 行.
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 66 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 67 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 68 行.
+NOTIC: [8] Undefined index: submit /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 70 行.
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0002s ]
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 228 行.
+SQL: SELECT `tid` FROM `lr_category` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: photo_string /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 236 行.
+SQL: SHOW COLUMNS FROM `lr_brand` [ RunTime:0.0007s ]
+SQL: SELECT `id`,`name` FROM `lr_brand` WHERE ( 1=1 )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: shop_id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 253 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+NOTIC: [8] Undefined variable: img /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 14 行.
+NOTIC: [8] Undefined variable: img /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 14 行.
+NOTIC: [8] Undefined variable: img /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 14 行.
+NOTIC: [2] Division by zero /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 77 行.
+NOTIC: [8] Undefined index: intro /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 83 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 90 行.
+NOTIC: [8] Undefined index: shop_id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 91 行.
+NOTIC: [8] Undefined variable: catetwo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 107 行.
+NOTIC: [8] Undefined index: brand_id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 127 行.
+NOTIC: [8] Undefined index: brand_id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 127 行.
+NOTIC: [8] Undefined index: brand_id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 127 行.
+NOTIC: [8] Undefined index: brand_id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 127 行.
+NOTIC: [8] Undefined index: company /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 137 行.
+NOTIC: [8] Undefined index: price /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 146 行.
+NOTIC: [8] Undefined index: price_yh /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 152 行.
+NOTIC: [8] Undefined index: price_jf /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 158 行.
+NOTIC: [8] Undefined index: pro_number /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 166 行.
+NOTIC: [8] Undefined index: num /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 172 行.
+NOTIC: [8] Undefined index: photo_x /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 182 行.
+NOTIC: [8] Undefined index: photo_d /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 195 行.
+NOTIC: [8] Undefined variable: img_str /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 205 行.
+NOTIC: [8] Undefined index: content /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 235 行.
+NOTIC: [8] Undefined index: sort /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 241 行.
+NOTIC: [8] Undefined index: renqi /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 247 行.
+NOTIC: [8] Undefined index: is_show /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 253 行.
+NOTIC: [8] Undefined index: is_show /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 254 行.
+NOTIC: [8] Undefined index: is_hot /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 260 行.
+NOTIC: [8] Undefined index: is_hot /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 261 行.
+NOTIC: [8] Undefined index: is_sale /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 267 行.
+NOTIC: [8] Undefined index: is_sale /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 268 行.
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 272 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013491s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-07-20T17:59:09+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Shangchang/index.html?type=xz
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 12 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 15 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 16 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 17 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0172s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0014s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0011s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 44 行.
+SQL: SELECT * FROM `lr_shangchang` WHERE ( status=1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011151s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011216s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2017-07-20T17:59:18+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Product/getcid.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0009s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=4 )  [ RunTime:0.0002s ]
+
+[ 2017-07-20T18:16:12+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Product/add.html?id=0&page=0&type=&name=&shop_id=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 106 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /www/web/default/public_html/minijunxishanhgnz/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `lr_product` [ RunTime:0.0016s ]
+SQL: SELECT `photo_x` FROM `lr_product` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 125 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /www/web/default/public_html/minijunxishanhgnz/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+SQL: SELECT `photo_d` FROM `lr_product` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Use of undefined constant Ymd - assumed 'Ymd' /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 169 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /www/web/default/public_html/minijunxishanhgnz/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+SQL: INSERT INTO `lr_product` (`name`,`intro`,`shop_id`,`cid`,`brand_id`,`pro_number`,`sort`,`price`,`price_yh`,`price_jf`,`updatetime`,`num`,`content`,`company`,`pro_type`,`renqi`,`is_hot`,`is_show`,`is_sale`,`photo_x`,`photo_d`,`addtime`) VALUES ('摩洛哥风情','','1','5','3','SKU','0','2300','1610','0','1500545772','999999','','','1','0','1','1','0','UploadFiles/product/20170720/1500545772591328.png','UploadFiles/product/20170720/1500545772480389.png','1500545772') [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004825s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-07-20T18:16:13+08:00 ] 113.67.74.56 /minijunxishanhgnz/index.php/Ht/Product/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 65 行.
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 66 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 67 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 68 行.
+NOTIC: [8] Undefined index: submit /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 70 行.
+SQL: SHOW COLUMNS FROM `lr_category` [ RunTime:0.0010s ]
+SQL: SELECT `id`,`name` FROM `lr_category` WHERE ( tid=1 )  [ RunTime:0.0001s ]
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 228 行.
+SQL: SELECT `tid` FROM `lr_category` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: photo_string /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 236 行.
+SQL: SHOW COLUMNS FROM `lr_brand` [ RunTime:0.0006s ]
+SQL: SELECT `id`,`name` FROM `lr_brand` WHERE ( 1=1 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: shop_id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ProductController.class.php 第 253 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+NOTIC: [8] Undefined variable: img /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 14 行.
+NOTIC: [8] Undefined variable: img /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 14 行.
+NOTIC: [8] Undefined variable: img /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 14 行.
+NOTIC: [2] Division by zero /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 77 行.
+NOTIC: [8] Undefined index: intro /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 83 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 90 行.
+NOTIC: [8] Undefined index: shop_id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 91 行.
+NOTIC: [8] Undefined variable: catetwo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 107 行.
+NOTIC: [8] Undefined index: brand_id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 127 行.
+NOTIC: [8] Undefined index: brand_id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 127 行.
+NOTIC: [8] Undefined index: brand_id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 127 行.
+NOTIC: [8] Undefined index: brand_id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 127 行.
+NOTIC: [8] Undefined index: company /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 137 行.
+NOTIC: [8] Undefined index: price /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 146 行.
+NOTIC: [8] Undefined index: price_yh /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 152 行.
+NOTIC: [8] Undefined index: price_jf /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 158 行.
+NOTIC: [8] Undefined index: pro_number /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 166 行.
+NOTIC: [8] Undefined index: num /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 172 行.
+NOTIC: [8] Undefined index: photo_x /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 182 行.
+NOTIC: [8] Undefined index: photo_d /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 195 行.
+NOTIC: [8] Undefined variable: img_str /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 205 行.
+NOTIC: [8] Undefined index: content /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 235 行.
+NOTIC: [8] Undefined index: sort /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 241 行.
+NOTIC: [8] Undefined index: renqi /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 247 行.
+NOTIC: [8] Undefined index: is_show /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 253 行.
+NOTIC: [8] Undefined index: is_show /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 254 行.
+NOTIC: [8] Undefined index: is_hot /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 260 行.
+NOTIC: [8] Undefined index: is_hot /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 261 行.
+NOTIC: [8] Undefined index: is_sale /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 267 行.
+NOTIC: [8] Undefined index: is_sale /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 268 行.
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/04b33691f63b9c13a9ceae31ee771556.php 第 272 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014435s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+

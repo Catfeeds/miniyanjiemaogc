@@ -1,0 +1,1235 @@
+[ 2017-08-23T17:05:14+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Login/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined variable: key /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/2d4ce69e9c2d15d777794fcdbaefd3a2.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016547s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016604s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001230s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001605s ]
+
+[ 2017-08-23T17:05:22+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Login/index.html?key=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+SQL: SHOW COLUMNS FROM `lr_adminuser` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `lr_adminuser` WHERE ( name='admin' AND del<1 ) LIMIT 1   [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: shop_id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/LoginController.class.php 第 21 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000640s ]
+
+[ 2017-08-23T17:05:23+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Index/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000579s ]
+SQL: SHOW COLUMNS FROM `lr_web` [ RunTime:0.0037s ]
+SQL: SELECT `concent` FROM `lr_web` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015029s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015079s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-08-23T17:05:24+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Page/adminindex.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006547s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-08-23T17:05:48+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 12 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 13 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 15 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 16 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 17 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0038s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0055s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0039s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 44 行.
+SQL: SELECT * FROM `lr_shangchang` WHERE ( status=1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000118s ]
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010903s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2017-08-23T17:05:51+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/add.html?id=1&page=&name=&type=&sheng=2151&city=2152&quyu=2161&tiaojian=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 86 行.
+NOTIC: [8] Undefined index: submit /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0012s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=2152 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=2151 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=2161 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=2152 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_sccat` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `lr_sccat` WHERE ( 1=1 ) ORDER BY addtime desc  [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: vip_width /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Undefined variable: vip_height /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010677s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2017-08-23T17:06:29+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 12 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 13 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 15 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 16 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 17 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0010s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 44 行.
+SQL: SELECT * FROM `lr_shangchang` WHERE ( status=1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009128s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009173s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-08-23T17:06:41+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/set_tj.html?id=1
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=1 AND status=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `lr_shangchang` SET `type`='0' WHERE ( id=1 ) [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 249 行.
+
+[ 2017-08-23T17:06:41+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/index/page/0.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 12 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 13 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 15 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 16 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 17 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0009s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( status=1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009952s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000480s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000529s ]
+
+[ 2017-08-23T17:06:42+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/set_tj.html?id=1
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=1 AND status=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `lr_shangchang` SET `type`='1' WHERE ( id=1 ) [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 249 行.
+
+[ 2017-08-23T17:06:42+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/index/page/0.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 12 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 13 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 15 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 16 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 17 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0010s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( status=1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009173s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-08-23T17:06:43+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/add.html?id=1&page=&name=&type=&sheng=2151&city=2152&quyu=2161&tiaojian=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 86 行.
+NOTIC: [8] Undefined index: submit /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0011s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=2152 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=2151 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=2161 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=2152 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_sccat` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `lr_sccat` WHERE ( 1=1 ) ORDER BY addtime desc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: vip_width /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Undefined variable: vip_height /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008977s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009026s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-08-23T17:06:57+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 12 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 13 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 15 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 16 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 17 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0011s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 44 行.
+SQL: SELECT * FROM `lr_shangchang` WHERE ( status=1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010160s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010210s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2017-08-23T17:06:59+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/add.html?id=2&page=&name=&type=&sheng=868&city=869&quyu=870&tiaojian=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 86 行.
+NOTIC: [8] Undefined index: submit /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=2 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0011s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=869 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=868 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=870 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=869 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_sccat` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `lr_sccat` WHERE ( 1=1 ) ORDER BY addtime desc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: vip_width /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Undefined variable: vip_height /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009353s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000520s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2017-08-23T17:07:05+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Baidumap/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000546s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017771s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-08-23T17:07:07+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Baidumap/Images/markers.png
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-08-23T17:07:09+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Baidumap/Images/markers.png
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-08-23T17:07:58+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 80 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 84 行.
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 85 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 86 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 87 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 90 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 91 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 92 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_china_city` WHERE ( id=869 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_china_city` WHERE ( id=870 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0010s ]
+SQL: UPDATE `lr_shangchang` SET `name`='广州市君喜善服饰有限公司',`uname`=' 邹文君',`sheng`='868',`city`='869',`quyu`='870',`address`='广州市花都区狮岭镇雄狮东路17铺1',`address_xq`='上海市 上海市 黄浦区 广州市花都区狮岭镇雄狮东路17铺1',`location_x`='113.171745',`location_y`='23.465037',`tel`='13802790024',`utel`='13802790024',`content`='<p></p><p style=\"margin: 0px; padding: 0px; line-height: 16.8px; color: rgb(90, 90, 90); font-family: Arial, 宋体, Helvetica, sans-serif, Verdana;\"><span style=\"margin: 0px; padding: 0px; line-height: 19.6px; font-family: \'Microsoft YaHei\'; font-size: 14px;\"></span></p>广州市君喜善服饰有限公司是一家打造韩国知性时尚风的领导品牌，来自韩国首席设计师joyseason带领的团队作品。Joyseason中文意思就是：“喜悦季节”，君喜善以喜悦心创新，欢喜心做事的心态面对生活；将尽善尽美的审美观点传递到世界各地。 君喜善绽放着自己身上所隐藏着的美艳女人气息，展现了东方时尚色彩十足的女性魅力！多变的OL风格韩系服饰搭配，成为精炼美艳的职场精英的最佳选择！透露着成熟、淑女气质、大方、高贵，演绎都市女子的婉约可人的气质。君喜善分为三个系列：君系列：主打职场精英办公风格(在外），喜系列：主打职场精英在家休闲系列（在内），善系列：主打高级晚装定制系列 目标客户群主要在20-35岁的白领，衍生客户群在20-40岁 品牌文化： 1君文化：以传统文化为基础，深度的诠释人生的意义！ 2喜文化：喜悦心创新、欢喜心做事； 3善文化：善待自己、善待她人；<p style=\"margin: 0px; padding: 0px; line-height: 16.8px; color: rgb(90, 90, 90); font-family: Arial, 宋体, Helvetica, sans-serif, Verdana;\"><span style=\"margin: 0px; padding: 0px; line-height: 19.6px; font-family: \'Microsoft YaHei\'; font-size: 14px;\"></span></p><br />',`sort`='0',`updatetime`='1503479278',`status`='1',`qq`='',`intro`='MC&ME品牌宗旨---小资、轻奢、自在',`cid`='1' WHERE ( id=2 ) [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: tiaojian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 188 行.
+NOTIC: [8] Undefined variable: level /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 188 行.
+NOTIC: [8] Undefined variable: tiaojian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 188 行.
+NOTIC: [8] Undefined variable: level /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 188 行.
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=2 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_sccat` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `lr_sccat` WHERE ( 1=1 ) ORDER BY addtime desc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: vip_width /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Undefined variable: vip_height /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008902s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000595s ]
+
+[ 2017-08-23T17:07:59+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/add.html?id=2&page=&name=&type=&sheng=&city=&quyu=&tiaojian=&level=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 86 行.
+NOTIC: [8] Undefined index: submit /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=2 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0008s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_sccat` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `lr_sccat` WHERE ( 1=1 ) ORDER BY addtime desc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: vip_width /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Undefined variable: vip_height /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008676s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-08-23T17:08:01+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 80 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 84 行.
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 85 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 86 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 87 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 90 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 91 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 92 行.
+NOTIC: [8] Undefined index: submit /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0010s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_sccat` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `lr_sccat` WHERE ( 1=1 ) ORDER BY addtime desc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: vip_width /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Undefined variable: vip_height /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 42 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 51 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 72 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 79 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 79 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 86 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 93 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 99 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 106 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 117 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 124 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 131 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 138 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 148 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 157 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 166 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 175 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 182 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 189 行.
+NOTIC: [8] Uninitialized string offset: 0 /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2017-08-23T17:08:02+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 12 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 13 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 15 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 16 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 17 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0010s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 44 行.
+SQL: SELECT * FROM `lr_shangchang` WHERE ( status=1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009035s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009080s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2017-08-23T17:08:04+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/set_tj.html?id=3
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=3 AND status=1 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `lr_shangchang` SET `type`='0' WHERE ( id=3 ) [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 249 行.
+
+[ 2017-08-23T17:08:04+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/index/page/0.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000526s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 12 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 13 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 15 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 16 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 17 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0010s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( status=1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009816s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2017-08-23T17:08:04+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/set_tj.html?id=3
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=3 AND status=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `lr_shangchang` SET `type`='1' WHERE ( id=3 ) [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 249 行.
+
+[ 2017-08-23T17:08:04+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/index/page/0.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 12 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 13 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 15 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 16 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 17 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0009s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( status=1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009099s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009143s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000495s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2017-08-23T17:08:05+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/add.html?id=3&page=&name=&type=&sheng=1276&city=1277&quyu=1280&tiaojian=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 86 行.
+NOTIC: [8] Undefined index: submit /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0008s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=1277 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=1276 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=1280 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=1277 )  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_sccat` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `lr_sccat` WHERE ( 1=1 ) ORDER BY addtime desc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: vip_width /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Undefined variable: vip_height /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000582s ]
+
+[ 2017-08-23T17:08:12+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Baidumap/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005838s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-08-23T17:08:14+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Baidumap/Images/markers.png
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-08-23T17:08:16+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Baidumap/Images/markers.png
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-08-23T17:08:43+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 80 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 84 行.
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 85 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 86 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 87 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 90 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 91 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 92 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0008s ]
+SQL: SELECT `name` FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_china_city` WHERE ( id=1277 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_china_city` WHERE ( id=1280 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0009s ]
+SQL: UPDATE `lr_shangchang` SET `name`='广州市君喜善服饰有限公司',`uname`=' 邹文君',`sheng`='1276',`city`='1277',`quyu`='1280',`address`='广州市花都区狮岭镇雄狮东路17铺1',`address_xq`='福建省 福州市 台江区 广州市花都区狮岭镇雄狮东路17铺1',`location_x`='113.171745',`location_y`='23.465037',`tel`='13802790024',`utel`='13802790024',`content`='广州市君喜善服饰有限公司是一家打造韩国知性时尚风的领导品牌，来自韩国首席设计师joyseason带领的团队作品。Joyseason中文意思就是：“喜悦季节”，君喜善以喜悦心创新，欢喜心做事的心态面对生活；将尽善尽美的审美观点传递到世界各地。 君喜善绽放着自己身上所隐藏着的美艳女人气息，展现了东方时尚色彩十足的女性魅力！多变的OL风格韩系服饰搭配，成为精炼美艳的职场精英的最佳选择！透露着成熟、淑女气质、大方、高贵，演绎都市女子的婉约可人的气质。君喜善分为三个系列：君系列：主打职场精英办公风格(在外），喜系列：主打职场精英在家休闲系列（在内），善系列：主打高级晚装定制系列 目标客户群主要在20-35岁的白领，衍生客户群在20-40岁 品牌文化： 1君文化：以传统文化为基础，深度的诠释人生的意义！ 2喜文化：喜悦心创新、欢喜心做事； 3善文化：善待自己、善待她人；',`sort`='0',`updatetime`='1503479323',`status`='1',`qq`='',`intro`='',`cid`='1' WHERE ( id=3 ) [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: tiaojian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 188 行.
+NOTIC: [8] Undefined variable: level /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 188 行.
+NOTIC: [8] Undefined variable: tiaojian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 188 行.
+NOTIC: [8] Undefined variable: level /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 188 行.
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_sccat` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `lr_sccat` WHERE ( 1=1 ) ORDER BY addtime desc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: vip_width /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Undefined variable: vip_height /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009132s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009181s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000554s ]
+
+[ 2017-08-23T17:08:44+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/add.html?id=3&page=&name=&type=&sheng=&city=&quyu=&tiaojian=&level=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 86 行.
+NOTIC: [8] Undefined index: submit /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=3 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0007s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_sccat` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `lr_sccat` WHERE ( 1=1 ) ORDER BY addtime desc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: vip_width /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Undefined variable: vip_height /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008845s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000879s ]
+
+[ 2017-08-23T17:08:50+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 12 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 13 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 15 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 16 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 17 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0010s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 44 行.
+SQL: SELECT * FROM `lr_shangchang` WHERE ( status=1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009785s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2017-08-23T17:08:52+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/add.html?id=4&page=&name=&type=&sheng=2151&city=2178&quyu=2182&tiaojian=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 86 行.
+NOTIC: [8] Undefined index: submit /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0008s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=2178 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=2151 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=2182 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=2178 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_sccat` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `lr_sccat` WHERE ( 1=1 ) ORDER BY addtime desc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: vip_width /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Undefined variable: vip_height /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-08-23T17:08:56+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Baidumap/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006059s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000547s ]
+
+[ 2017-08-23T17:08:59+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Baidumap/Images/markers.png
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-08-23T17:09:06+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Baidumap/Images/markers.png
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-08-23T17:09:07+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Baidumap/Images/markers.png
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-08-23T17:09:19+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/add.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 80 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 84 行.
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 85 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 86 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 87 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 90 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 91 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 92 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_china_city` WHERE ( id=2178 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `lr_china_city` WHERE ( id=2182 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0010s ]
+SQL: UPDATE `lr_shangchang` SET `name`='广州市君喜善服饰有限公司',`uname`=' 邹文君',`sheng`='2151',`city`='2178',`quyu`='2182',`address`='广州市花都区狮岭镇雄狮东路17铺1',`address_xq`='广东省 深圳市 南山区 广州市花都区狮岭镇雄狮东路17铺1',`location_x`='113.171745',`location_y`='23.465037',`tel`='13802790024',`utel`='13802790024',`content`='广州市君喜善服饰有限公司是一家打造韩国知性时尚风的领导品牌，来自韩国首席设计师joyseason带领的团队作品。Joyseason中文意思就是：“喜悦季节”，君喜善以喜悦心创新，欢喜心做事的心态面对生活；将尽善尽美的审美观点传递到世界各地。 君喜善绽放着自己身上所隐藏着的美艳女人气息，展现了东方时尚色彩十足的女性魅力！多变的OL风格韩系服饰搭配，成为精炼美艳的职场精英的最佳选择！透露着成熟、淑女气质、大方、高贵，演绎都市女子的婉约可人的气质。君喜善分为三个系列：君系列：主打职场精英办公风格(在外），喜系列：主打职场精英在家休闲系列（在内），善系列：主打高级晚装定制系列 目标客户群主要在20-35岁的白领，衍生客户群在20-40岁 品牌文化： 1君文化：以传统文化为基础，深度的诠释人生的意义！ 2喜文化：喜悦心创新、欢喜心做事； 3善文化：善待自己、善待她人；',`sort`='0',`updatetime`='1503479359',`status`='1',`qq`='',`intro`='',`cid`='1' WHERE ( id=4 ) [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: tiaojian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 188 行.
+NOTIC: [8] Undefined variable: level /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 188 行.
+NOTIC: [8] Undefined variable: tiaojian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 188 行.
+NOTIC: [8] Undefined variable: level /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 188 行.
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_sccat` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `lr_sccat` WHERE ( 1=1 ) ORDER BY addtime desc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: vip_width /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Undefined variable: vip_height /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008668s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008715s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000478s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-08-23T17:09:20+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/add.html?id=4&page=&name=&type=&sheng=&city=&quyu=&tiaojian=&level=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 86 行.
+NOTIC: [8] Undefined index: submit /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 103 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `lr_shangchang` WHERE ( id=4 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0006s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_sccat` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `lr_sccat` WHERE ( 1=1 ) ORDER BY addtime desc  [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: logo /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 20 行.
+NOTIC: [8] Undefined variable: vip_width /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+NOTIC: [8] Undefined variable: vip_height /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/1bc3a5e9dae2833f975d12f566a20531.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009644s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2017-08-23T17:09:22+08:00 ] 61.140.232.188 /minijunxishanhgnz/index.php/Ht/Shangchang/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' /www/web/default/public_html/minijunxishanhgnz/App/Common/Conf/debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+NOTIC: [8] Undefined index: id /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 12 行.
+NOTIC: [8] Undefined index: type /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 13 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 14 行.
+NOTIC: [8] Undefined index: name /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 15 行.
+NOTIC: [8] Undefined index: sheng /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 16 行.
+NOTIC: [8] Undefined index: city /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 17 行.
+NOTIC: [8] Undefined index: quyu /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `lr_china_city` [ RunTime:0.0008s ]
+SQL: SELECT `tid` FROM `lr_china_city` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `id`,`name` FROM `lr_china_city` WHERE ( tid=0 )  [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: text /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/PublicController.class.php 第 64 行.
+SQL: SHOW COLUMNS FROM `lr_shangchang` [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_shangchang` WHERE ( status=1 ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: page /www/web/default/public_html/minijunxishanhgnz/App/Ht/Controller/ShangchangController.class.php 第 44 行.
+SQL: SELECT * FROM `lr_shangchang` WHERE ( status=1 ) ORDER BY addtime desc LIMIT 0,20   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=1276 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=868 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `lr_china_city` WHERE ( id=2151 ) LIMIT 1   [ RunTime:0.0001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined variable: page /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+NOTIC: [8] Undefined index: tuijian /www/web/default/public_html/minijunxishanhgnz/App/Runtime/Cache/Ht/7333a2fbaea715065decaffd38e0d122.php 第 74 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009130s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+

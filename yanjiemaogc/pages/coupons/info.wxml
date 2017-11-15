@@ -1,0 +1,53 @@
+<!--pages/order/detail.wxml-->
+<view class="w100">	
+		<view class="p_all bg_white mt10 font_14">
+				<view class="ecode">
+				   {{info.ecode}}
+				</view>
+        <view class="ecodes">
+				   认证码只能在体验店使用一次，请勿交于他人使用
+				</view>
+		</view>	
+
+		<view class="info">
+      <view class="jc">
+			  体验券信息
+			</view>
+			<view class="mt10">
+			  使用状态：<text class="red">{{info.desc}}</text>
+			</view>
+			<view class="mt10">
+			  订单编号：{{info.order_sn}}
+			</view>
+			<view class="mt10">
+			  领取时间：{{info.gettime}}
+			</view>
+      <view class="mt10" wx:if="{{info.state==2}}">
+			  认证时间：{{info.checktime}}
+			</view>
+      <view class="mt10" wx:if="{{info.state==1}}">
+		  	过期时间：{{info.offtime}}
+			</view>
+      <view class="mt10" wx:if="{{info.state==3}}">
+			  过期时间：{{info.gettime}}
+			</view>
+    </view>  
+    <view class="info">
+      <view class="jc">
+			  店铺信息
+			</view>
+      <view class="mt10" wx:if="{{info.shop_id>0}}">
+			消费店铺：{{info.sname}}
+			</view>
+      <view class="mt10" wx:else>
+			消费店铺：无限制
+			</view>
+      <view class="mt10" wx:if="{{info.shop_id>0}}">
+			店铺电话：{{info.tel}}
+			</view>
+      <view class="mt10" wx:if="{{info.shop_id>0}}">
+			店铺地址：{{info.address}}
+			</view>
+		</view>
+
+</view>

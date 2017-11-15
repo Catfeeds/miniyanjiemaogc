@@ -1,0 +1,15 @@
+<view class="register">
+<view class="classname">
+ <text>请输入电子券认证码</text>
+</view>
+    <view class="user">
+        <text style="color:#000">认证码：</text>
+        <input class="in" name="voucode" bindblur="bindKeycode" value="{{code}}"/>
+    </view>
+    <p class='ru'>备注 : 非体验店不能认证，每个认证码只能认证一次</p>
+<!--注册-->
+
+  <view class="but">
+      <button bindtap="formDataCommit" disabled="{{disabled}}" style="color:#000">提交认证</button>
+  </view>
+</view>
